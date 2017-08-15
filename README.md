@@ -1,1 +1,1 @@
-PGM Issues with Wifi Tests
+PGM Issues with Wireless / Lan  Tests
